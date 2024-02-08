@@ -5,3 +5,4 @@ We looked at using linear regression to forecast restaurant earnings based on ci
 
 You can find the whole blog regarding the topic in the below mentioned link:
 https://medium.com/@prakrutid0502/an-overview-of-linear-regressions-use-in-predicting-restaurant-profits-e3688337915b
+https://github.com/Prakruti5/Linear-Regression
